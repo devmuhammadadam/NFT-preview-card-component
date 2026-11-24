@@ -9,7 +9,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-**Live Site:** https://muhammad-abdusalam.github.io/NFT-preview-card-component/
+**Live Site:** https://devmuhammadadam.github.io/NFT-preview-card-component/
 
 ### Built with ⚒️
 
@@ -20,4 +20,4 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 ### Author
 
 - Frontend Mentor - [@Muhammad-adam778](https://www.frontendmentor.io/profile/Muhammad-adam778)
-- Linkedin - [@muhammad-abdusalam](https://www.linkedin.com/in/muhammad-abdusalam)
+- Linkedin - [@devmuhammadadam](https://www.linkedin.com/in/devmuhammadadam)
